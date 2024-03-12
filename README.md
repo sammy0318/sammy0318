@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Somesh Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India with a keen interest in software development.</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FMcY9R4_xYOIAAAAC%2Firon-man-tony-stark.gif&tbnid=-dCOmGTimP6KVM&vet=12ahUKEwjoz8z5ru-EAxUWn2MGHSY-CQwQMygBegQIARBz..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fironman-gifs&docid=ReFdwgDbqCOx2M&w=498&h=322&q=Iron%20man%20gifs&hl=en-GB&ved=2ahUKEwjoz8z5ru-EAxUWn2MGHSY-CQwQMygBegQIARBz"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammy0318&label=Profile%20views&color=0e75b6&style=flat" alt="sammy0318" /> </p>
 
