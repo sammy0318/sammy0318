@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Java,DSA**A
+- 💬 Ask me about **Java,DS**A
 
 - 📫 How to reach me **reetasingh197518@gmail.com**
 
