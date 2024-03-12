@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Somesh Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India with a keen interest in software development.</h3>
+img align="right" alt="Coding" width="400" src="![iron-man-infinity-gauntlet-4k-dp-1920x1080](https://github.com/sammy0318/sammy0318/assets/146454603/6b17db8e-0725-4694-958f-9639a95aa8ba)
+"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammy0318&label=Profile%20views&color=0e75b6&style=flat" alt="sammy0318" /> </p>
 
