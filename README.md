@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sammy0318.github.io/Portfolio-SomeshPratapSingh/" target="blank"><img align="center" src="🌐" alt="sammy._._.03" height="30" width="40" /></a>
+<a href="https://sammy0318.github.io/Portfolio-SomeshPratapSingh/" target="blank"><img align="center" src="<i class="fa-solid fa-globe" style="color: #74C0FC;"></i>" alt="sammy._._.03" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/somesh-pratap-singh-6668b525a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/somesh-pratap-singh-6668b525a" height="30" width="40" /></a>
 <a href="https://instagram.com/sammy._._.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammy._._.03" height="30" width="40" /></a>
 </p>
