@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Java,DS**A
+- 💬 Ask me about **Java,DSA, Front-end Development**
 
-- 📫 How to reach me **reetasingh197518@gmail.com**
+- 📫 How to reach me **somesh180309@gmail.com**
 
 - ⚡ Fun fact **I have infinite battery hack in my body.**
 
