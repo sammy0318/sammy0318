@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌐 To Connect visit Personal Portfolio website **https://sammy0318.github.io/Portfolio-SomeshPratapSingh/**
+  
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Java,DSA, Front-end Development**
