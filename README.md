@@ -12,7 +12,7 @@
 
 - 🌐 To Connect visit Personal Portfolio website <a href="https://sammy0318.github.io/Portfolio-SomeshPratapSingh/" target="_blank">🌐 Portfolio </a>
   
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Java,DSA, Front-end Development**
 
