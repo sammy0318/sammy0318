@@ -46,8 +46,9 @@
 
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" style="background:#000; padding:5px; border-radius:5px;" />
+  <img src="https://raw.githubusercontent.com/somesh-singh-assets/icons/main/github-white.png" width="40" height="40" />
 </a>
+
 
 
 
