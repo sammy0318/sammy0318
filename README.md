@@ -46,8 +46,9 @@
 
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/somesh-singh-assets/icons/main/github-white.png" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" />
 </a>
+
 
 
 
