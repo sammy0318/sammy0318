@@ -99,12 +99,13 @@
   </a>
 
   <!-- AI Tools -->
-  <a href="#" style="text-decoration: none;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/9/97/OpenAI_logo_2025.svg" alt="ChatGPT" width="40" height="40"/> 
-  </a>
-  <a href="#" style="text-decoration: none;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" alt="Claude" width="40" height="40"/> 
-  </a>
+  <a href="#" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/OpenAI_logo_2025.svg" alt="OpenAI Logo" width="40" height="40"/>
+</a>
+
+<a href="#" style="text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthropic_logo.svg" alt="Anthropic Logo" width="40" height="40"/>
+</a>
   <a href="#" style="text-decoration: none;"> 
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> 
   </a>
