@@ -40,28 +40,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  
+
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  
+
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  
+
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  
+
   <!-- Dev Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  
+
   <!-- Cloud -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
@@ -81,33 +81,16 @@
 
 <h3 align="center">📈 Contribution Activity Overview</h3>
 
-<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="GitHub Contribution Graph" />
-</p>
-
-
-<h3 align="center">📈 Contribution & Activity Overview</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="Contribution Graph" />
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammy0318&theme=github_dark&utcOffset=8" alt="Productive Time" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammy0318&theme=github_dark" alt="Stats Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammy0318&theme=github_dark" alt="Languages per Repo" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=sammy0318&theme=github_dark" alt="Commit per Day" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-stat?username=sammy0318&theme=github_dark" alt="Issues Stat" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=sammy0318&theme=github_dark" alt="Achievements" />
 </p>
-
