@@ -85,3 +85,29 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="GitHub Contribution Graph" />
 </p>
+
+
+<h3 align="center">📈 Contribution & Activity Overview</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammy0318&theme=github_dark&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammy0318&theme=github_dark" alt="Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammy0318&theme=github_dark" alt="Languages per Repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=sammy0318&theme=github_dark" alt="Commit per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-stat?username=sammy0318&theme=github_dark" alt="Issues Stat" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=sammy0318&theme=github_dark" alt="Achievements" />
+</p>
+
