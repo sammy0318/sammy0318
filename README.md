@@ -88,9 +88,5 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammy0318&theme=github_dark" alt="Stats Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammy0318&theme=github_dark" alt="Languages per Repo" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=sammy0318&theme=github_dark" alt="Commit per Day" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-stat?username=sammy0318&theme=github_dark" alt="Issues Stat" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=sammy0318&theme=github_dark" alt="Achievements" />
 </p>
+
