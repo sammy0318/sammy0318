@@ -25,6 +25,9 @@
   <a href="https://instagram.com/sammy._._.03" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
+  <a href="https://sammy0318.github.io/Portfolio-SomeshPratapSingh/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30" />
+  </a>
 </p>
 
 ---
@@ -76,7 +79,9 @@
 
 ---
 
-<h3 align="left">📈 GitHub Activity Radar (Mock):</h3>
+<h3 align="center">📈 Contribution Activity Overview</h3>
+
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="GitHub Activity Overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammy0318&theme=github_dark" alt="GitHub Contribution Graph" />
 </p>
