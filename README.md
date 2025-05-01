@@ -33,7 +33,7 @@
 ---
 
 ## Certifications
-- 🏅 [GitHub Foundations Badge]([(https://www.credly.com/earner/earned/badge/b66ced61-d63e-4358-92cb-431d52cb6c29)]) - Earned by demonstrating foundational GitHub knowledge including version control, repositories, commits, and collaboration.
+- 🏅 [GitHub Foundations Badge](https://www.credly.com/earner/earned/badge/b66ced61-d63e-4358-92cb-431d52cb6c29) - Earned by demonstrating foundational GitHub knowledge including version control, repositories, commits, and collaboration.
 
 ---
 
