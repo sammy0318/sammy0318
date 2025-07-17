@@ -11,7 +11,7 @@
 </p>
 
 - 🌐 Visit my personal portfolio: [Somesh's Portfolio](https://sammy0318.github.io/Portfolio-SomeshPratapSingh/)
-- 🌱 Currently learning: **React JS**
+- 🌱 Currently learning: **Node JS**
 - 💬 Ask me about: **Java, DSA, Front-end Development**
 - 📫 Reach me at: **somesh180309@gmail.com**
 - ⚡ Fun fact: **I have an infinite battery hack in my body.**
